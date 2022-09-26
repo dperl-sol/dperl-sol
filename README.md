@@ -1,1 +1,1 @@
-I am a postdoc at synchrotron SOLEIL working on serial crystallography for materials samples.
+I was a postdoc at synchrotron SOLEIL working on serial crystallography for materials samples. Here are some scripts which might be useful to future workers on this project, or anyone who wants to scavenge snippets of code for manipulating x-ray crystallography data.
